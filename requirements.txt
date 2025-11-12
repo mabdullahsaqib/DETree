@@ -1,5 +1,4 @@
 torch  # Recommended: 2.8.0
-faiss-gpu
 transformers>=4.36.0
 peft>=0.7.0
 lightning
